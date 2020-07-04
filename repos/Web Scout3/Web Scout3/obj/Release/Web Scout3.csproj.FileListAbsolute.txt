@@ -1,0 +1,11 @@
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\bin\Release\Web Scout3.exe.config
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\bin\Release\Web Scout3.exe
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\bin\Release\Web Scout3.pdb
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web Scout3.csprojAssemblyReference.cache
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web_Scout3.Form1.resources
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web_Scout3.Form2.resources
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web_Scout3.Properties.Resources.resources
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web Scout3.csproj.GenerateResource.cache
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web Scout3.csproj.CoreCompileInputs.cache
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web Scout3.exe
+C:\Users\leonu\source\repos\Web Scout3\Web Scout3\obj\Release\Web Scout3.pdb
